@@ -16,14 +16,24 @@ export default function Home() {
               <Video id="xGBN-VAd9Lo"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="D26VdCUF5Oc"/>
+              <Video id="xYNPi9jXnmY"/>
+              <Video id="xGBN-VAd9Lo"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="Ryw5QiJBGjg"/>
               <Video id="B5U4GeqwYT0"/>
               <Video id="UwbaszIrYhs"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
-              <Video id="ygmz06CooZ8"/>
-              <Video id="OYMzoEMLj0Q"/>
-              <Video id="r4GhNhzYOD4"/>
+              <Video id="30VAWKaDkgk"/>
+              <Video id="wlxeicX7Mi4"/>
+              <Video id="w02ni2itqFM"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="kiGzix-Mcis"/>
+              <Video id="Ih2ewxH1B_g"/>
+              <Video id="KqTmmOemz3A"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="wNAMWpvJNu8"/>
