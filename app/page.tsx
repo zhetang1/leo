@@ -9,7 +9,25 @@ export default function Home() {
                   <code className="font-mono font-bold">Natalie Tang</code>
               </p>
           </div>
-
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="25kuLqbKAoE"/>
+              <Video id="zM5vmeTpglY"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="f93EfoOaoqE"/>
+              <Video id="rtyGSphn-qI"/>
+              <Video id="qVW8wdSBTL0"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="ac_AGyHWHes"/>
+              <Video id="THhPUY12qf4"/>
+              <Video id="w__1i6aLhrI"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="jHaLLnid91k"/>
+              <Video id="6AKgC3PiWAw"/>
+              <Video id="xIdxC_3CVt0"/>
+          </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="Igw838l-Zak"/>
               <Video id="3ApRFaTSM60"/>
