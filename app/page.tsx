@@ -12,6 +12,25 @@ export default function Home() {
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="25kuLqbKAoE"/>
               <Video id="zM5vmeTpglY"/>
+              <Video id="g5IgT8LPbq8"/>
+          </div>
+          3.4, 5, 6
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="KrWVkwuv6Bw"/>
+              <Video id="mTsKs9ANpcA"/>
+              <Video id="6S1stB_loEs"/>
+          </div>
+          3.7, 8. 9
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="Z_MtysBGmPs"/>
+              <Video id="SRlull_g64c"/>
+              <Video id="dAe5vsegFB4"/>
+          </div>
+          3.10, 4.1, 2
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="GF5cxpfXC5s"/>
+              <Video id="GFWZYzyWlXQ"/>
+              <Video id="zE2LZIYcK48"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="f93EfoOaoqE"/>
