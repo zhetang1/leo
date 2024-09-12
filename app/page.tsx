@@ -21,6 +21,21 @@ export default function Home() {
               <Video id="xGBN-VAd9Lo"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="rwwlOYuaY_A"/>
+              <Video id="27YK3FhEnzk"/>
+              <Video id="FKUc_Xc16VA"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="spLJR7ZAjr4"/>
+              <Video id="7szUJjjECmE"/>
+              <Video id="1z6XYYNweDs"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="ZwlFjj9ouC4"/>
+              <Video id="i4tpQB3iAl4"/>
+              <Video id="VrheEEPGk-c"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="KrWVkwuv6Bw"/>
               <Video id="mTsKs9ANpcA"/>
               <Video id="6S1stB_loEs"/>
