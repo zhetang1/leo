@@ -11,6 +11,36 @@ export default function Home() {
               <Link href="/">Home</Link>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="rwwlOYuaY_A"/>
+              <Video id="27YK3FhEnzk"/>
+              <Video id="FKUc_Xc16VA"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="spLJR7ZAjr4"/>
+              <Video id="7szUJjjECmE"/>
+              <Video id="1z6XYYNweDs"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="ZwlFjj9ouC4"/>
+              <Video id="i4tpQB3iAl4"/>
+              <Video id="VrheEEPGk-c"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="KrWVkwuv6Bw"/>
+              <Video id="mTsKs9ANpcA"/>
+              <Video id="6S1stB_loEs"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="Z_MtysBGmPs"/>
+              <Video id="SRlull_g64c"/>
+              <Video id="dAe5vsegFB4"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="GF5cxpfXC5s"/>
+              <Video id="GFWZYzyWlXQ"/>
+              <Video id="zE2LZIYcK48"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="SJLqbFxqmtE"/>
               <Video id="F3n_a3R252c"/>
               <Video id="o5j6YY_CnrU"/>
