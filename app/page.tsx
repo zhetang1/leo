@@ -20,6 +20,23 @@ export default function Home() {
               <Video id="xYNPi9jXnmY"/>
               <Video id="xGBN-VAd9Lo"/>
           </div>
+
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="hgeLByGAGQ8"/>
+              <Video id="KCG4J3VWjpA"/>
+              <Video id="QN9DfyeYguQ"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="9Dwahk0URY0"/>
+              <Video id="5Y7oC9mY6K0"/>
+              <Video id="OgvYA5FQDkA"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="jaUwdJcFaWA"/>
+              <Video id="oixcPHrj9J0"/>
+              <Video id="ILPvjoGm0Q8"/>
+          </div>
+
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="rwwlOYuaY_A"/>
               <Video id="27YK3FhEnzk"/>
