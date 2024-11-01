@@ -11,6 +11,42 @@ export default function Home() {
               </p>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="https://youtu.be/nswyp48EScY"/>
+              <Video id="https://youtu.be/hUyoah60u2w"/>
+              <Video id="https://youtu.be/kzxUFQohOn0"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="1aeM_hnHdAk"/>
+              <Video id="QccQTpafKC0"/>
+              <Video id="6MUoobS5xgA"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="E1ShzxgNja0"/>
+              <Video id="ZwTog9_67TU"/>
+              <Video id="K-CPV09jQc4"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="ib85cLAeRpA"/>
+              <Video id="VKm-RHUysMA"/>
+              <Video id="Vi9r5iLH24U"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="NIjKGHnyhdM"/>
+              <Video id="uwkUtxfdLNk"/>
+              <Video id="D6PblaDXV1w"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="ffqKN0evIUs"/>
+              <Video id="_AWlo-ikVBI"/>
+              <Video id="1mVrXYB_mfo"/>
+          </div>
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
+              <Video id="x8XgIzrrJjo"/>
+              <Video id="g1PfFEhjXlQ"/>
+              <Video id="MQktKpTXwMs"/>
+          </div>
+
+          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="25kuLqbKAoE"/>
               <Video id="zM5vmeTpglY"/>
               <Video id="g5IgT8LPbq8"/>
