@@ -11,9 +11,9 @@ export default function Home() {
               </p>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
-              <Video id="https://youtu.be/nswyp48EScY"/>
-              <Video id="https://youtu.be/hUyoah60u2w"/>
-              <Video id="https://youtu.be/kzxUFQohOn0"/>
+              <Video id="nswyp48EScY"/>
+              <Video id="hUyoah60u2w"/>
+              <Video id="kzxUFQohOn0"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
               <Video id="1aeM_hnHdAk"/>
