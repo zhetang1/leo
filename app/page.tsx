@@ -1,5 +1,4 @@
 import Video from "@/app/video";
-import Link from "next/link";
 
 export default function Home() {
   return (
@@ -11,32 +10,25 @@ export default function Home() {
               </p>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
-              <Video id="25kuLqbKAoE"/>
-              <Video id="zM5vmeTpglY"/>
-              <Video id="g5IgT8LPbq8"/>
+              <Video id="https://youtu.be/TaRUISj49aM"/>
+              <Video id="https://youtu.be/zMqxJN3WIuM"/>
+              <Video id="https://youtu.be/XlruZ8BIJ-I"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
-              <Video id="D26VdCUF5Oc"/>
-              <Video id="xYNPi9jXnmY"/>
-              <Video id="xGBN-VAd9Lo"/>
+              <Video id="https://youtu.be/YGd6SKCFqxk"/>
+              <Video id="https://youtu.be/KT1VsaY8QBk"/>
+              <Video id="xGBN-https://youtu.be/LtQMEHp1QZM"/>
           </div>
 
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
-              <Video id="nswyp48EScY"/>
-              <Video id="hUyoah60u2w"/>
-              <Video id="kzxUFQohOn0"/>
+              <Video id="https://youtu.be/z8ql2JZAxp8"/>
+              <Video id="https://youtu.be/ByXMJtX7cas"/>
+              <Video id="https://youtu.be/ClrtURIVVCU"/>
           </div>
           <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
-              <Video id="1aeM_hnHdAk"/>
-              <Video id="QccQTpafKC0"/>
-              <Video id="6MUoobS5xgA"/>
+              <Video id="https://youtu.be/7_zHyGCtQQY"/>
           </div>
-          <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
-              <Video id="E1ShzxgNja0"/>
-              <Video id="ZwTog9_67TU"/>
-              <Video id="K-CPV09jQc4"/>
-          </div>
-          <Link href="1">More</Link>
+          {/*<Link href="1">More</Link>*/}
       </main>
   );
 }
